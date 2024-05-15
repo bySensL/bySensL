@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I code in</h4>
+<h4 align="left">My technology stack</h4>
 
 ###
 
